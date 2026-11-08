@@ -1,0 +1,20 @@
+{
+  "LICENSE": "fdd1d6481995cf54a28dcfcffa09519939c0f293d48ab7f1d51ed8f4028fd71c",
+  "README.md": "7230a82a9cf959096d499e6802601261676e5f631f7257ac76dbf223eda2d532",
+  "docs/qa/CONV-RRR-ADVERSARIAL.json": "42dc8da7eb306d2419dd6371ae6a4150744bae56e45d0388257737e5a060f99a",
+  "docs/qa/CONV-RRR-REVISION-OUTPUT.json": "cca43bc5a501543a10becd89249967e3a69d43c2a206685d4bbcef21a78d5fcb",
+  "package.json": "f05c2d651fa99d89c292de583ce8901cafe9e3e51ae8fcbe08e6435cb6109d1f",
+  "src/memory/adapter/cli.js": "31f89e0e7a2b4f14ae12e5ad797eff5af746ba213411ff82bdff27e08eac00de",
+  "src/memory/adapter/snapshot.js": "bc524204706ef7c8818088121a1c79c9fee67246db3c67a1e85501a60ca9f831",
+  "src/memory/core/canonical.js": "0c3a2c7abef5cb52bffdc30e858f0048b74daa0b44e5b147e11abaa057cf3d4c",
+  "src/memory/core/graph.js": "2d923139c742ac8ed154c50925162043143cb17b8b5c183a9e8de652f3bc5519",
+  "src/memory/core/renormalize.js": "deaff1a57486db131976b68b6d3ceb2383255641d7a01ccc19f1b83edeef9bb1",
+  "src/memory/core/resonance.js": "c757c2b621fdacb0f18e1ba70a3cd67ab4f68638997d70fdf14062a3f85dd8ea",
+  "src/memory/core/ringing.js": "736c6e951d83af3de9990ba9f552520655091e0dce83e251b381a0473495d359",
+  "tests/memory/adversarial-evaluation.js": "d28e09ba03d1ce06f1049b7d5d128ef671e8dd6d586af7bb2dd5ef366120a6b9",
+  "tests/memory/benchmark.js": "0eaf3a959b3009a75c28c7aba753f22b6009a835e5020bf5e8ce5201e0821b60",
+  "tests/memory/requirements-evaluation.txt": "ac785205f5d97970c4a7f8aef135c62cfda01985ba2000973008c823ccc01d2f",
+  "tests/memory/revision-evaluation.py": "fdd3805f46f5bdb9fc72fb09fae23239d40e9dca43cc1271ab3a271686800a3c",
+  "tests/memory/revision-worker.js": "c918f636142ed2d8420c5f4f1bca4be9e122b7f8d55868a345e34b98a659f977",
+  "tests/memory/test-revision-result.py": "9e9c6c19bf121e6fc80aeb02d9f232ceb24454e02e6e368fbd137fd4e4a7b422"
+}
